@@ -1,9 +1,4 @@
-# alx_travel_app_0x00
+# ALX Travel App 0x00
 
-## Setup
+This project is part of the ALX Backend specialization and includes a Django-based API for managing travel listings and bookings.
 
-1. Clone the repository.
-2. Install dependencies.
-3. Run migrations:
-   ```bash
-   python manage.py migrate
